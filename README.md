@@ -14,6 +14,7 @@ A lo largo de mi carrera he adquirido bastante experiencia en el desarrollo de s
 
 📖 Cuento con sólidos conocimientos en diversas tecnologías
 
+<br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
@@ -30,6 +31,7 @@ A lo largo de mi carrera he adquirido bastante experiencia en el desarrollo de s
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"  title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"  title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
 </div>
+<br>
 
 ✍️ Estoy abierto a oportunidades de trabajo y colaboración, así también a compartir experiencias. 
 ¡Conéctate conmigo para iniciar una conversación!
