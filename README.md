@@ -18,6 +18,7 @@ A lo largo de mi carrera he adquirido bastante experiencia en el desarrollo de s
 
 <br>
 <div>
+  <img src="https://github.com/OsvaldoGonzalezPy/dev_resource/blob/main/icons/oracle/apex-logo-icon.svg" title="Oracle APEX" alt="Oracle APEX" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
