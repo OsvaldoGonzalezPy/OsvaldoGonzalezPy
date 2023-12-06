@@ -11,10 +11,10 @@
 
 ---
 
-👋 ¡Saludos! Gracias por visitar mi perfil. 
-A lo largo de mi carrera he adquirido bastante experiencia en el desarrollo de software, destacándome por mis ganas de seguir aprendiendo y lograr excelentes resultados en las metas propuestas. Me apasiona aprender nuevas tecnologías y compartir los conocimientos adquiridos.
+<p>👋 ¡Saludos! Gracias por visitar mi perfil. </p>
+<p>A lo largo de mi carrera he adquirido bastante experiencia en el desarrollo de software, destacándome por mis ganas de seguir aprendiendo y lograr excelentes resultados en las metas propuestas. Me apasiona aprender nuevas tecnologías y compartir los conocimientos adquiridos.</p>
 
-📖 Cuento con sólidos conocimientos en diversas tecnologías
+<p> 📖 Cuento con sólidos conocimientos en diversas tecnologías y lenguajes</p>
 
 <br>
 <div>
@@ -28,7 +28,6 @@ A lo largo de mi carrera he adquirido bastante experiencia en el desarrollo de s
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"  title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"  title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg"  title="Tomcat" alt="Tomcat" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"  title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"  title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
@@ -36,8 +35,8 @@ A lo largo de mi carrera he adquirido bastante experiencia en el desarrollo de s
 </div>
 <br>
 
-✍️ Estoy abierto a oportunidades de trabajo y colaboración, así también a compartir experiencias. 
-¡Conéctate conmigo para iniciar una conversación!
+<p>✍️ Estoy abierto a oportunidades de trabajo y colaboración, así también a compartir experiencias. </p>
+<p>¡Conéctate conmigo para iniciar una conversación!</p>
 
 ---
 
