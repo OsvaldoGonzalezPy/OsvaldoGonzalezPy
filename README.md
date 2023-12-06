@@ -1,6 +1,7 @@
-<div align="right">
+<!-- <div align="right">
   <img src="https://komarev.com/ghpvc/?username=osvaldogonzalezpy&color=blueviolet&style=for-the-badge" alt=""/>
-</div>
+</div> -->
+
 <div id="header" align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/osvaldogonzalezpy/">
