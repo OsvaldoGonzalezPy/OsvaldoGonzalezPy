@@ -3,7 +3,7 @@
 </div> -->
 
 <div align="right">
-  <a href="https://osvaldogonzalezpy.hashnode.dev"><img src="https://github.com/OsvaldoGonzalezPy/dev_resource/blob/main/icons/hashnode/logo-standard.svg" width="110" height="30" alt="Hashnode Badge"/></a>
+  <a href="https://osvaldogonzalezpy.hashnode.dev"><img src="https://github.com/OsvaldoGonzalezPy/OsvaldoGonzalezPy/blob/main/icons/hashnode/logo-standard.svg" width="110" height="30" alt="Hashnode Badge"/></a>
   <a href="https://www.linkedin.com/in/osvaldogonzalezpy/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
 
@@ -19,7 +19,7 @@ Me apasiona aprender nuevas tecnologías y compartir los conocimientos adquirido
 
 <br>
 <div>
-  <img src="https://github.com/OsvaldoGonzalezPy/dev_resource/blob/main/icons/oracle/apex-logo-icon.svg" title="Oracle APEX" alt="Oracle APEX" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/OsvaldoGonzalezPy/OsvaldoGonzalezPy/blob/main/icons/oracle/apex-logo-icon.svg" title="Oracle APEX" alt="Oracle APEX" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
