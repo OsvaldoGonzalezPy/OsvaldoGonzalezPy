@@ -1,151 +1,203 @@
 <div align="center">
 
-# 👋 Hola, soy Osvaldo González
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:8B0000&height=180&section=header&text=Osvaldo%20González&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Oracle%20APEX%20%7C%20Oracle%20Database%20%7C%20Enterprise%20Applications&descAlignY=58&descSize=18" />
 
-### Oracle APEX & Oracle Database Developer | Software Developer
+<br>
 
-<p>
-  Desarrollo soluciones empresariales utilizando <strong>Oracle APEX, Oracle Database y PL/SQL</strong>,
-  integrando aplicaciones web, APIs, sistemas de reporting y diferentes tecnologías de infraestructura.
-</p>
-
-<p>
-  <a href="https://osvaldogonzalezpy.hashnode.dev">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
-  </a>
-  <a href="https://www.linkedin.com/in/osvaldogonzalezpy/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<a href="https://osvaldogonzalezpy.hashnode.dev">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
+</a>
+<a href="https://www.linkedin.com/in/osvaldogonzalezpy/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 </div>
 
 ---
 
-## 🚀 Sobre mí
+## 👋 Bienvenido
 
-Soy desarrollador de software apasionado por la tecnología, la automatización y la creación de soluciones orientadas a resolver problemas reales de negocio.
+Gracias por visitar mi perfil.
 
-A lo largo de mi experiencia profesional he trabajado con diferentes tecnologías y plataformas, con especial enfoque en el ecosistema **Oracle**, particularmente en:
+Soy desarrollador de software enfocado en la creación y evolución de **aplicaciones empresariales**, con especial interés en el ecosistema **Oracle**.
 
-- 🟠 Oracle APEX
-- 🗄️ Oracle Database
-- ⚙️ PL/SQL
-- 🌐 ORDS y servicios REST
-- 📊 JasperReports
-- 🖥️ Aplicaciones web
-- 🐧 Linux y administración de servidores
-- 🔄 Integración y migración de sistemas
+Mi experiencia se centra principalmente en **Oracle APEX, Oracle Database y PL/SQL**, trabajando también con integración de servicios REST, reporting, servidores de aplicaciones y tecnologías web.
 
-Actualmente continúo ampliando mis conocimientos en nuevas tecnologías, arquitecturas y herramientas de desarrollo.
+Me apasiona aprender nuevas tecnologías, compartir conocimientos y encontrar mejores formas de transformar necesidades de negocio en soluciones eficientes y mantenibles.
 
-> 💡 Me interesa especialmente transformar procesos complejos en soluciones simples, mantenibles y eficientes.
+> 💡 Siempre aprendiendo, experimentando y buscando mejores formas de resolver problemas.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-### 🟠 Oracle
+| 🧩 Desarrollo | 🗄️ Bases de Datos | 🔌 Integración & APIs | 🖥️ Infraestructura | 📊 Reporting & Tools |
+| :-----------: | :----------------: | :-------------------: | :-----------------: | :------------------: |
+|  Oracle APEX  |   Oracle Database  |          ORDS         |        Linux        |     JasperReports    |
+|     PL/SQL    |     PostgreSQL     |       REST APIs       |    Apache Tomcat    |       Markdown       |
+|   JavaScript  |        MySQL       |          JSON         |        NGINX        |        Trello        |
+|      Java     |         SQL        |      Web Services     |         Git         |           —          |
+|   HTML / CSS  |          —         |   APEX Web Services   |          —          |           —          |
 
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle Database" alt="Oracle Database" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/OsvaldoGonzalezPy/OsvaldoGonzalezPy/blob/main/icons/oracle/apex-logo-icon.svg" title="Oracle APEX" alt="Oracle APEX" width="45" height="45"/>&nbsp;
-</p>
+<br>
 
-**Oracle Database · Oracle APEX · PL/SQL · ORDS · SQL**
+### ⚙️ Stack
+
+<div align="center">
+
+<a href="https://apex.oracle.com/" title="Oracle APEX">
+  <img src="https://github.com/OsvaldoGonzalezPy/OsvaldoGonzalezPy/blob/main/icons/oracle/apex-logo-icon.svg" width="52" height="52" alt="Oracle APEX"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.oracle.com/database/" title="Oracle Database">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="52" height="52" alt="Oracle Database"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="#" title="PL/SQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="52" height="52" alt="PL/SQL"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="#" title="Java">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="52" height="52" alt="Java"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="#" title="JavaScript">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="52" height="52" alt="JavaScript"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="#" title="HTML5">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="52" height="52" alt="HTML5"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="#" title="CSS3">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="52" height="52" alt="CSS3"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="#" title="PostgreSQL">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="52" height="52" alt="PostgreSQL"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="#" title="MySQL">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="52" height="52" alt="MySQL"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="#" title="Linux">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="52" height="52" alt="Linux"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="#" title="Apache Tomcat">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" width="52" height="52" alt="Apache Tomcat"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="#" title="Git">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="52" height="52" alt="Git"/>
+</a>
+
+</div>
 
 ---
 
-### 💻 Desarrollo Web
+## 🏗️ En qué trabajo
 
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
-</p>
+### 🟠 Oracle APEX
 
-**HTML · CSS · JavaScript · Java · REST APIs**
+Desarrollo de aplicaciones empresariales utilizando:
 
----
+* Oracle APEX
+* PL/SQL
+* Interactive Reports & Interactive Grids
+* Dynamic Actions
+* JavaScript
+* REST Data Sources
+* APEX Web Services
+* Validaciones y procesos
+* Seguridad y control de acceso
 
-### 🗄️ Bases de Datos
+### 🔄 Modernización de sistemas
 
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45"/>&nbsp;
-</p>
+Uno de mis principales intereses es la evolución de aplicaciones **legacy**, especialmente aquellas desarrolladas con tecnologías Oracle.
 
-**Oracle · MySQL · PostgreSQL · SQL · PL/SQL**
+Trabajo con procesos de modernización que pueden involucrar:
 
----
+`Oracle Forms` → `Oracle APEX`
 
-### ⚙️ Servidores & DevOps
+`Oracle Reports` → `JasperReports`
 
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="Apache Tomcat" alt="Apache Tomcat" width="45" height="45"/>&nbsp;
-</p>
+`PL/SQL` → `PL/SQL + REST APIs`
 
-**Linux · Apache Tomcat · NGINX · ORDS · Git**
+El objetivo no es solamente migrar una aplicación, sino mejorar su arquitectura, mantenibilidad y experiencia de usuario.
 
----
+### 🔌 Integración
 
-### 📊 Reporting & Herramientas
+Experiencia trabajando con:
 
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="45" height="45"/>&nbsp;
-</p>
+* REST APIs
+* JSON
+* ORDS
+* APEX_WEB_SERVICE
+* Servicios externos
+* Integración entre sistemas
+* Procesamiento de datos
 
-**JasperReports · Markdown · Trello**
+### 📊 Reporting
 
----
+Integración de aplicaciones empresariales con **JasperReports**, incluyendo generación de documentos, reportes y procesos de migración desde plataformas legacy.
 
-## 📌 Áreas de interés
+### 🖥️ Infraestructura
 
-- 🏗️ Desarrollo de aplicaciones empresariales
-- 🟠 Oracle APEX
-- 🗄️ Arquitectura y optimización de bases de datos
-- 🔌 Integración de APIs y servicios REST
-- 📊 Reporting y generación de documentos
-- 🔄 Migración de aplicaciones legacy
-- ⚙️ Automatización de procesos
-- 🐧 Linux y administración de servidores
-- 📚 Aprendizaje continuo
+También me interesa comprender y trabajar con la infraestructura que soporta las aplicaciones:
+
+`NGINX → Tomcat → ORDS → Oracle APEX → Oracle Database`
 
 ---
 
-## 📖 También escribo
+## 📖 Compartiendo conocimiento
 
-Comparto experiencias, aprendizajes y contenido relacionado con desarrollo de software y tecnología en mi blog.
+Además del desarrollo, me gusta documentar lo que aprendo y compartir experiencias relacionadas con software, bases de datos, Oracle APEX y tecnología.
 
-<p align="center">
-  <a href="https://osvaldogonzalezpy.hashnode.dev">
-    <img src="https://img.shields.io/badge/Visitar%20mi%20blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Visitar mi blog"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://osvaldogonzalezpy.hashnode.dev">
+  <img src="https://img.shields.io/badge/📖%20Visitar%20mi%20blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Blog"/>
+</a>
+
+</div>
 
 ---
 
 ## 🤝 Conectemos
 
-Estoy abierto a compartir conocimientos, colaborar en proyectos y conocer nuevas oportunidades relacionadas con tecnología y desarrollo de software.
+Estoy abierto a **colaboraciones, intercambio de conocimientos y nuevas oportunidades profesionales** relacionadas con desarrollo de software y tecnologías empresariales.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/osvaldogonzalezpy/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://osvaldogonzalezpy.hashnode.dev">
-    <img src="https://img.shields.io/badge/Hashnode-Leer%20mis%20artículos-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/osvaldogonzalezpy/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+ 
+
+<a href="https://osvaldogonzalezpy.hashnode.dev">
+  <img src="https://img.shields.io/badge/Hashnode-Mi%20Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💻 "Always learning. Always building."
+### 💻 Always Learning · Always Building · Always Improving
 
 </div>
